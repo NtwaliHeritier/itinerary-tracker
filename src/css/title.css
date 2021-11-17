@@ -1,0 +1,17 @@
+.title-div {
+    display: flex;
+    justify-content: space-between;
+    font-size: 2em;
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+
+.title-div button {
+    background: none;
+    border: none;
+    background-color: rgb(34, 138, 34);
+    color: white;
+    padding: 5px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+}

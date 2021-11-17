@@ -1,0 +1,11 @@
+.nav-div {
+    background-color: black;
+    padding: 20px;
+    margin: 20px;
+}
+
+.home {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5em;
+}
