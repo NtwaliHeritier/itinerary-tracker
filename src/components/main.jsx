@@ -3,8 +3,7 @@ import '../css/main.css';
 import {Context} from '../App';
 
 const Main = ({deleteProgram}) => {
-    const timetable = useContext(Context);
-    console.log(timetable)
+    const timetable = useContext(Context)
     return ( 
         <div className="main-content">
             {
